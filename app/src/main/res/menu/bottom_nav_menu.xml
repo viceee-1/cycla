@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/nav_usuario"
+        android:icon="@drawable/ic_usuario"
+        android:title="Usuario" />
+
+    <item
+        android:id="@+id/nav_ajustes"
+        android:icon="@drawable/ic_ajustes"
+        android:title="Ajustes" />
+
+    <item
+        android:id="@+id/nav_sos"
+        android:icon="@drawable/ic_sos_alerta"
+        android:title="SOS" />
+
+</menu>

@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema principal de la aplicación -->
+    <style name="Theme.Cycla" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores principales (Blanco y Negro) -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">#000000</item>
+        <item name="colorSecondaryVariant">#000000</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Color de la barra de estado superior (Hora, batería, etc.) -->
+        <item name="android:statusBarColor">#000000</item>
+
+        <!-- Colores para el BottomNavigationView -->
+        <item name="colorSecondaryContainer">#E0E0E0</item> <!-- Gris claro al seleccionar un ícono -->
+        <item name="colorOnSecondaryContainer">#000000</item> <!-- Ícono negro al estar seleccionado -->
+
+        <!-- Fondo de la aplicación -->
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+
+        <!-- ======================================================== -->
+        <!-- PANTALLA DE CARGA INICIAL (SPLASH SCREEN) API 31+        -->
+        <!-- ======================================================== -->
+        <!-- Fondo blanco para la pantalla de carga -->
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <!-- Tu logo en el centro de la pantalla de carga -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/cycla_logo</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689074214691",
+    "project_id": "cycla-7759d",
+    "storage_bucket": "cycla-7759d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689074214691:android:7d8fb5fca3827399f39e96",
+        "android_client_info": {
+          "package_name": "com.example.cycla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEY_uVEiP7Bf_lERyzgoYvig2JDIBK3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
